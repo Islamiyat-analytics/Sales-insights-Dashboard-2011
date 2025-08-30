@@ -1,6 +1,6 @@
 # Sales Insights Dashboard - 2011
 
-This project presents a **Sales Insights Dashboard** created using Power BI/Excel.  
+This project presents a **Sales Insights Dashboard** created using Power BI.  
 The dashboard analyzes online sales performance for the year 2011 and provides actionable insights for decision-makers.  
 
 ## 📊 Key Insights
