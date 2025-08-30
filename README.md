@@ -10,8 +10,9 @@ The dashboard analyzes online sales performance for the year 2011 and provides a
 - **Global Product Demand Map (Excl. UK)** → Shows regions with strong product demand, including Australia, Germany, and Netherlands.  
 
 ## 📂 Files in this Repository
-- `ABDULWASIU ISLAMIYAT.pptx` → Presentation slides containing analysis and insights.  
-- `![Dashboard Preview](28ffd266-8555-46a0-a25e-9fc583115cd9.jpeg)→ Screenshot of the Sales Insights Dashboard.  
+- `ABDULWASIU ISLAMIYAT.pptx` → Presentation slides containing analysis and insights  
+- `dashboard-2011.jpeg` → Dashboard screenshot (also displayed above)  
+- `README.md` → Project documentation  
 
 ## 🚀 Tools Used
 - Microsoft Power BI
