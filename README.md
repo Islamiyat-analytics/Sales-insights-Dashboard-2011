@@ -1,5 +1,5 @@
 # Sales Insights Dashboard - 2011
-
+![Dashboard Preview](28ffd266-8555-46a0-a25e-9fc583115cd9.jpeg)
 This project presents a **Sales Insights Dashboard** created using Power BI.  
 The dashboard analyzes online sales performance for the year 2011 and provides actionable insights for decision-makers.  
 
@@ -11,7 +11,7 @@ The dashboard analyzes online sales performance for the year 2011 and provides a
 
 ## 📂 Files in this Repository
 - `ABDULWASIU ISLAMIYAT.pptx` → Presentation slides containing analysis and insights.  
-- `dashboard-2011.jpeg` → Screenshot of the Sales Insights Dashboard.  
+- `![Dashboard Preview](28ffd266-8555-46a0-a25e-9fc583115cd9.jpeg)→ Screenshot of the Sales Insights Dashboard.  
 
 ## 🚀 Tools Used
 - Microsoft Power BI
